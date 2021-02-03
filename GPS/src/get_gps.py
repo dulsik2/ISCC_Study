@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
-
-import roslib
-import sys
 import rospy
 from sensor_msgs.msg import NavSatFix
 

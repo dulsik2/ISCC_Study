@@ -1,0 +1,8 @@
+prefix=/home/dulsik2/catkin_ws/install
+
+Name: GPS
+Description: Description of GPS
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
