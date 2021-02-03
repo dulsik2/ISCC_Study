@@ -14,7 +14,7 @@ from sensor_msgs.msg import NavSatFix
 # MODE==2) just show data
 
 kml = simplekml.Kml()
-save_path = '/home/young/catkin_ws/src/ISCC_Study/GPS/kml/kml_' + datetime.datetime.now().strftime("%Y%m%d%H%M%S") + ".kml"
+save_path = '/home/dulsik2/catkin_ws/src/ISCC_Study/GPS/kml/kml_' + datetime.datetime.now().strftime("%Y%m%d%H%M%S") + ".kml"
 
 gps_data = None
 prev_time = None
